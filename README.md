@@ -14,3 +14,5 @@ For a quick product demo, [check this short YouTube clip].
 
 [check this short YouTube clip]: https://youtu.be/XG0LZ08-GsM
 [Head over to my blog]: https://piotr.westfalewicz.com/blog/2019/08/print-your-own-ultimate-cloud-cat-feeder-open-sourcing-stl-files/
+
+![The Ultimate Cloud Cat Feeder - explode view](Explode.png?raw=true "explode view")
