@@ -1,5 +1,7 @@
 # The Ultimate Cloud Cat Feeder
 
+![The Ultimate Cloud Cat Feeder - cross section view through center](CrossSection.png?raw=true "cross section view through center")
+
 ## Overview
 
 This repository contains all the 3D models used in the ultimate cloud cat feeder.
